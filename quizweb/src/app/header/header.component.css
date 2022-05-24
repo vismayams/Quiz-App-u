@@ -1,0 +1,31 @@
+#container-fluid{
+    width: 100%;
+}
+#one{
+    padding-left:  50%;
+}
+#two{
+    padding-left: 60%;
+}
+.search{
+    padding-left: 20px;
+    margin: 0 80px;
+}
+#word{
+    color: red;
+    cursor: pointer;
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: bolder;
+}
+#word:hover{
+    color: rgb(217, 255, 0);
+}
+.heading{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    background: -webkit-linear-gradient(red ,yellow);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-left: 20px;
+}

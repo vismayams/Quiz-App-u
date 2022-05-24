@@ -1,0 +1,165 @@
+{
+    "questionseng": [{
+            "questionText": "who is me",
+            "options": [{
+                    "text": "legend",
+                    "correct": true
+                },
+                {
+                    "text": "nerd"
+                },
+                {
+                    "text": "psycho"
+                },
+                {
+                    "text": "awesome"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "A book rests on a level table. The force holding it up is",
+            "options": [{
+                    "text": "The strong Nuclear force"
+                },
+                {
+                    "text": "The week nuclear force"
+                },
+                {
+                    "text": "Gravitation"
+                },
+                {
+                    "text": "Electromagnetic",
+                    "correct": true
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "If a planet is in orbit 4 AU from the sun, how long will it take to orbit the sun?",
+            "options": [{
+                    "text": "6 Years"
+                },
+                {
+                    "text": "8 Years",
+                    "correct": true
+                },
+                {
+                    "text": "5 Years."
+                },
+                {
+                    "text": "4 Years"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Diffraction of waves passing through a circular aperture depends on the",
+            "options": [{
+                    "text": "Wavelength"
+                },
+                {
+                    "text": "Ratio of the wavelength to the diameter",
+                    "correct": true
+                },
+                {
+                    "text": "Amplitude"
+                },
+                {
+                    "text": "Frequency"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "What gas is most effective in reducing heat loss from the earth by absorbing re-radiated heat energy?",
+            "options": [{
+                    "text": "Carbondioxide",
+                    "correct": true
+                },
+                {
+                    "text": "Argon"
+                },
+                {
+                    "text": "Nitrogen"
+                },
+                {
+                    "text": "Oxygen"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Which of the following is an example of a one-way change?",
+            "options": [{
+                    "text": "The hydrologic cycle"
+                },
+                {
+                    "text": "The movement of nirogen through biosphere"
+                },
+                {
+                    "text": "The movement of water by the atmosphere"
+                },
+                {
+                    "text": "The evolution of animal life",
+                    "correct": true
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Which keyword allows us to share information between files in TypeScript?",
+            "options": [{
+                    "text": "import"
+                },
+                {
+                    "text": "The entropy increases",
+                    "correct": true
+                },
+                {
+                    "text": "The gas does work on its surroundings"
+                },
+                {
+                    "text": "Its specific heat increases"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Which is an array method to generate a new array based on a condition?",
+            "options": [{
+                    "text": " Color",
+                    "correct": true
+                },
+                {
+                    "text": "Shape"
+                },
+                {
+                    "text": "Hardness"
+                },
+                {
+                    "text": " Crystalline matrix"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Static magnetic fields are caused by",
+            "options": [{
+                    "text": "Magnetic charges in motion",
+                    "correct": true
+                },
+                {
+                    "text": "Accessors"
+                },
+                {
+                    "text": "Static magnetic charges"
+                },
+                {
+                    "text": "All of the above"
+                }
+            ],
+            "explanation": "this.propertyName is the way to access a specific property within a class"
+        }
+    ]
+}

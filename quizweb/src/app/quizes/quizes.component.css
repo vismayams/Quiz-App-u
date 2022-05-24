@@ -1,0 +1,16 @@
+ .table-class img{
+    width: 350px;
+    height:200px;
+   
+}
+
+.table-div{
+    margin-left: 130px;
+}
+.table-class {
+    border-collapse:separate;
+    border-spacing: 0 1.5em;
+} 
+img{
+    cursor: pointer;
+}
